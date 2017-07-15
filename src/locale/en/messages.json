@@ -1,0 +1,24 @@
+{
+  "Welcome!": {
+    "translation": "Hi",
+    "origin": [
+      [
+        "src/routes/Home/components/HomeView.js",
+        9
+      ],
+      [
+        "src/routes/Home/components/HomeView.js",
+        10
+      ]
+    ]
+  },
+  "This is a duck, because Redux!": {
+    "translation": "This is not a duck",
+    "origin": [
+      [
+        "src/routes/Home/components/HomeView.js",
+        11
+      ]
+    ]
+  }
+}
